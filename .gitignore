@@ -1,0 +1,15 @@
+# Binaries and checksums
+*.bin
+SHA256SUMS*
+
+# Secrets
+production/private.key
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
